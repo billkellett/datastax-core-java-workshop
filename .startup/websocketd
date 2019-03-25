@@ -51,4 +51,4 @@ ws.onmessage = function(event) {
 </html>
 EOF
 
-nohup python -m SimpleHTTPServer 1235 & ./websocketd --port 1234 tail -1000f ./startup.out &
+nohup python -m SimpleHTTPServer 1235 & nohup ./websocketd --port 1234 tail -1000f ../startup.out &
