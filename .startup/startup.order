@@ -1,4 +1,5 @@
 websocketd
 hugo
+nodetool-repair.sh
 studionotebook.sh
 restartOpsCenter.sh
