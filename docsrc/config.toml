@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Asset Name"
+title = "DataStax Core Java Workshop"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -29,7 +29,7 @@ disableKinds = ["taxonomy","taxonomyTerm"]
 
 
 [[menu.main]]
-	name   = "Asset Name"
+	name   = "DataStax Core Java Workshop"
 	url    = "/"
 	weight = 10
 [[menu.main]]
